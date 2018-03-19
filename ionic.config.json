@@ -1,0 +1,8 @@
+{
+  "name": "listen-audio-streaming",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
